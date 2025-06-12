@@ -1,0 +1,2 @@
+# discord-project
+ learning stuff
